@@ -1,0 +1,22 @@
+- category va mashinalar crud bo’ladi. (30 ball)
+- categoryga tegishli mashinalar uchun alohida get api. (5 ball)
+- register, login, verify, logout, va refreshToken, accessToken bular uchun. (35 ball)
+- category va mashinalarni qo’shish, o’chirish, o’zgartirishni faqat admin rolidagi odam qila oladi. oddiy user faqat ko’ra oladi. (5 ball)
+- Joi paketidan to’gri va faqat kerakli xususiyatlaridan foydalanilgan. (5 ball)
+- profile qismi qilingan va profileda userni ma’lumotlari chiqib turibdi agar admin bo’lsa qo’shgan category va mashinalari ko’rinadi. (10 ball)
+- winstondan foydalanilgan va loglarni kerakli joyda erroni alohida warningni alohida barchasini alohida qilib file va databasega saqlab ketilgan. (5 ball)
+- error handler bo’lishi kerak. (5 ball)
+
+### Additional requirements
+
+- vazifa to’gri ishlashligi kerak.
+- vazifada keraksiz kodlardan foydalanmaslik.
+- clean kod bo’lishi kerak ya’ni ko’p foydalaniladigan funksiyalar alohida module qilib qo’yilsin va faqat kerak joylarda ishlatilsin.
+- chala ishlayotgan funksiyalar uchun ball berilmaydi.
+
+<aside>
+💡
+
+berilgan mezon bo’yicha 100%  hamma nara bajarilishi kerak agarda talab to’liq bajarilmasa balla shunga qarab kamayadi. Masalan: category va mashinalar bo’yicha crud berilgan lekin category va mashina bo’yicha delete api yasalmadi shunda ajratilgan 30 baldan delete yo’qligi uchun (20 ball) qo’yaman.
+
+</aside>
